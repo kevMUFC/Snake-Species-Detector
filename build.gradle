@@ -6,7 +6,7 @@ buildscript {
     }
     dependencies {
         classpath 'com.google.gms:google-services:4.3.15'
-        classpath 'com.android.tools.build:gradle:7.4.0-beta02'
+        classpath 'com.android.tools.build:gradle:8.1.1'
         //./gradlew clean build --refresh-dependencies  classpath 'com.android.tools.build:gradle:7.4.0-beta02'
 
     }
